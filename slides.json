@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "srcD": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5c78d8c2ffb7299f/6722c5ff7e4dc141612fcd81/HS_31p0_TavernPass_BattleNet_Shop_DesktopBanner-1600x500_(1).png?imwidth=1568&imdensity=1",
+    "srcM": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt108b7667d1adb138/6722c5fe0cf888385032be10/HS_31p0_TavernPass_BattleNet_Shop_MobileBanner-928x400_(1).png?imwidth=960&imdensity=1",
+    "alt": "pic"
+  },
+  {
+    "id": 2,
+    "srcD": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt1c47d7a3ca354ca4/6718c2a82fb0457323aea222/-Bnet_Game-Banner_Desktop-EN-1600x500_(4)_(1).jpg?imwidth=1568&imdensity=1",
+    "srcM": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt7a00c3881f85993c/6718c2a8dfd99ec41d6d75f1/-Bnet_Game-Banner_Mobile-EN-928x400_(7)_(1).jpg?imwidth=960&imdensity=1",
+    "alt": "pic"
+  },
+  {
+    "id": 3,
+    "srcD": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8e3dc516f0001334/671984104cf9743b4aea6a02/WoW_Warcraft30th_MountBundle_BnetShop_HeaderDesktop_1600x500_(1).png?imwidth=1568&imdensity=1",
+    "srcM": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt703bfc9122bd7b12/671984101093611905993714/WoW_Warcraft30th_MountBundle_BnetShop_HeaderMobile_928x400_(1).png?imwidth=960&imdensity=1",
+    "alt": "pic"
+  },
+  {
+    "id": 4,
+    "srcD": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb2fc250600dc0a90/672011474210e820f619bdd4/Desktop-1600x500_(1).png?imwidth=1568&imdensity=1",
+    "srcM": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt0f0a231b4304c159/672011471093617d0799378d/Mobile-928x400.jpg?imwidth=960&imdensity=1",
+    "alt": "pic"
+  },
+  {
+    "id": 5,
+    "srcD": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltc713caf08c25791b/66be84a4e72fee8b44083c79/WOW_11.0_TWW_LaunchBanners-Destruction_Battlenet_Desktop-1600x500_JL01.png?imwidth=1568&imdensity=1",
+    "srcM": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blted996491561ec70e/66be84a4be3fc3765271e783/WOW_11.0_TWW_LaunchBanners-Destruction_Battlenet_Mobile_928x400_JL01.png?imwidth=960&imdensity=1",
+    "alt": "pic"
+  },
+  {
+    "id": 6,
+    "srcD": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltf4051f2dcd31201d/670efb6ef834d776f7f74ad7/OW2_2024_S13-Premium-BNET_SA01_BNET_ShopBannerDesktop_1600x500_(1).png?imwidth=1568&imdensity=1",
+    "srcM": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8eb2adca31d1adb7/67071451c4a6403a6a1e1670/OW2_2024_S13-Premium-BNET_SA01_BNET_ShopBannerMobile_928x400.png?imwidth=960&imdensity=1",
+    "alt": "pic"
+  }
+]

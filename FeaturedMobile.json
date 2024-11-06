@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltff6fdf959163a5a7/66568f9109d7e5fe2b1514ba/DIA_DIV_X1_BNET_PRE_PURCHASE_static_browsing_card_ultimate_1920x1080.png?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt75adef01b186cab3/63dc132f6ce8bf6444a8beb8/games-d4-colored.svg",
+    "title": "Diablo IV",
+    "boldpart": "Diablo® IV: Vessel of Hatred - Ultimate Edition",
+    "description": "Vessel of Hatred Available Now!",
+    "smallpart": "Action RPG",
+    "price": "$89.99",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  },
+  {
+    "id": 2,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+    "title": "World of Warcraft",
+    "boldpart": "World of Warcraft®: The War Within™",
+    "description": "Now live! Get a Level 70 Boost included in all editions and get back in the fight.",
+    "smallpart": "Massively Multiplayer RPG",
+    "price": "from $49.99",
+    "alt": "pic",
+    "redNEW": ""
+  },
+  {
+    "id": 3,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdfd26d2c32d19428/6657ade2a18b1660eed4ca63/-Bnet_Game-Card_Product_browsing-EN-960x540_(6).jpg?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+    "title": "Call of Duty Black Ops 6",
+    "boldpart": "Call of Duty®: Black Ops 6 - Vault Edition",
+    "description": "Available Now ",
+    "smallpart": "Action Shooter",
+    "price": "$99.99",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  },
+  {
+    "id": 4,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltbb9c5beacad46932/6704611dbeea3d8c25713e81/OW2_2024_S13-Premium-BNET_SA01_SHOP-browsingcard_1920x1080.png?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt7e22237aad327854/63db19a1592f74643d1a389a/Overwatch2_(1).svg",
+    "title": "Overwatch 2",
+    "boldpart": "Overwatch® 2 Premium Battle Pass: Season 13",
+    "description": "Become a master of magic with the Season 13 Premium Battle Pass.",
+    "smallpart": "Team-Based Action Game",
+    "price": "Learn More",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  },
+  {
+    "id": 5,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt32ea6ca11826bb20/66e362c5a36bc98ab7e16d68/-Bnet_Game-Content_UI_(Phoenix)-1920x1080-textless_(1).jpg?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8168cbdbbc05770d/64cc38e2c45759d767a1f84f/Jupiter_Coming_Soon-Bnet_Game-Icon_Shop-EN-Vector-01.svg",
+    "title": "Call of Duty: Modern Warfare III",
+    "boldpart": "Call of Duty®: Modern Warfare® III - BlackCell",
+    "description": "",
+    "smallpart": "In-game content",
+    "price": "$29.99",
+    "alt": "pic",
+    "redNEW": ""
+  },
+  {
+    "id": 6,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt54ecc2d13210a3a6/67041cb8beea3d3c38713e60/HS_30p6_MegaBundle_PP_BattlenetShop_BrowsingCard_1920x1080_Chest_RN02.jpg?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5538a5cdb0e16552/60db86c967d3385db9b805be/hearthstone.svg",
+    "title": "Hearthstone",
+    "boldpart": "Hearthstone®: The Great Dark Beyond Mega Bundle",
+    "description": "Available through November 5, 2024",
+    "smallpart": "Card Packs",
+    "price": "$79.99",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  }
+]

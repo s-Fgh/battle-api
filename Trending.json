@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6eab8ebc74b0a118/6647c638958c44bf1e3611be/-Bnet_Game-Card_Product_browsing-EN-960x540_(4).jpg?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+    "title": "Call of Duty Black Ops 6",
+    "boldpart": "Call of Duty®: Black Ops 6",
+    "description": "Available Now ",
+    "smallpart": "Action Shooter",
+    "price": "$69.99",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  },
+  {
+    "id": 2,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdfd26d2c32d19428/6657ade2a18b1660eed4ca63/-Bnet_Game-Card_Product_browsing-EN-960x540_(6).jpg?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+    "title": "Call of Duty Black Ops 6",
+    "boldpart": "Call of Duty®: Black Ops 6 - Vault Edition",
+    "description": "Available Now ",
+    "smallpart": "Action Shooter",
+    "price": "$99.99",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  },
+  {
+    "id": 3,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt57a421d9cc7b9cc7/6435dd4ed402e526b209460e/Battlenet-Balance.jpg?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt20ce4bea7a364041/60eddfc82d26525ef67aca6b/battlenet-nexus-color.svg",
+    "title": "Battle.net Services",
+    "boldpart": "Battle.net® Balance",
+    "description": "",
+    "smallpart": "Game Services",
+    "price": "Learn More",
+    "alt": "pic",
+    "redNEW": ""
+  },
+  {
+    "id": 4,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltf84b3964293bfc37/66959d1ef99331180ad237e0/WOW_11p0_TWW_EarlyAccessBanners_ProductAssetGallery-noLogos_1920x1080_enUS_JL01b.png?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+    "title": "World of Warcraft",
+    "boldpart": "World of Warcraft®: Subscription",
+    "description": "Get access to World of Warcraft®, now including Dragonflight, Cataclysm Classic™, Classic Season of Discovery",
+    "smallpart": "Subscriptions",
+    "price": "from $12.99/month",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  },
+  {
+    "id": 5,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltacdc7f5c58a2bca4/66568f9142baa4797b6aeadb/DIA_DIV_X1_BNET_PRE_PURCHASE_static_browsing_card_standard_1920x1080.png?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt75adef01b186cab3/63dc132f6ce8bf6444a8beb8/games-d4-colored.svg",
+    "title": "Diablo IV",
+    "boldpart": "Diablo® IV: Vessel of Hatred - Standard Edition",
+    "description": "Vessel of Hatred Available Now!",
+    "smallpart": "Action RPG",
+    "price": "$39.99",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  },
+  {
+    "id": 6,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blta17042f6f4536c84/670f0fc5d0df95806b4cc12c/WoW_Traders_BrutosaurMount_BnetShop_ProductAssetGallery_1920x1080.png?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+    "title": "World of Warcraft",
+    "boldpart": "Trader’s Gilded Brutosaur",
+    "description": "Check your Auctions and Mail in style with the Trader’s Gilded Brutosaur!   ",
+    "smallpart": "Mounts",
+    "price": "$90.00",
+    "alt": "pic",
+    "redNEW": ""
+  },
+  {
+    "id": 7,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6e381c52075a34c1/670978462145869928818d8c/WoW_Warcraft30th_MountBundle_BnetShop_BrowsingCard_1920x1080.png?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+    "title": "World of Warcraft",
+    "boldpart": "Warcraft® 30th Anniversary Mount Bundle",
+    "description": "Celebrate 30 years of Warcraft with a collection of iconic mounts!",
+    "smallpart": "Mounts",
+    "price": "$30.00",
+    "alt": "pic",
+    "redNEW": ""
+  },
+  {
+    "id": 8,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt54011515df49cadd/671bd3b04cf974ebf3ea6a4e/WoW_-_Shop_Ibelin_Charity_Pet_Reven_Pack_BnetShop_ProductAssetGallery_1920x1080_(1).png?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+    "title": "World of Warcraft",
+    "boldpart": "World of Warcraft®: The Reven Pack",
+    "description": "Support CureDuchenne until January 7, 2025!",
+    "smallpart": "Pets",
+    "price": "$20.00",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  },
+  {
+    "id": 9,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt65313c75181aa239/6435dd3e9c5c306d4219a13f/BattleTag-Change.jpg?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt20ce4bea7a364041/60eddfc82d26525ef67aca6b/battlenet-nexus-color.svg",
+    "title": "Battle.net Services",
+    "boldpart": "BattleTag Change",
+    "description": "",
+    "smallpart": "Game Services",
+    "price": "$10.00",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  },
+  {
+    "id": 10,
+    "src": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5387d7cefaf9923d/6334e1997e84e17596f9c816/Coins_960x540.png?imwidth=332&imdensity=1",
+    "svg": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt7e22237aad327854/63db19a1592f74643d1a389a/Overwatch2_(1).svg",
+    "title": "Overwatch 2",
+    "boldpart": "Overwatch® 2 – Overwatch Coins",
+    "description": "Use Overwatch Coins to Get the Premium Battle Pass and More!",
+    "smallpart": "Prisms, Coins, and Tokens",
+    "price": "from $4.99",
+    "alt": "pic",
+    "redNEW": "./public/images/redNEW.jpg"
+  }
+]
