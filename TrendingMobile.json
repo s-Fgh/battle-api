@@ -9,7 +9,7 @@
     "smallpart": "Action Shooter",
     "price": "$69.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "smallpart": "Action Shooter",
     "price": "$99.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "smallpart": "Subscriptions",
     "price": "from $12.99/month",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "smallpart": "Action RPG",
     "price": "$39.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 6,
