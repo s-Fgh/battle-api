@@ -21,7 +21,7 @@
     "smallpart": "Action RPG",
     "price": "$69.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "smallpart": "Action Shooter",
     "price": "$99.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 4,
