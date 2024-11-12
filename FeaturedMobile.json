@@ -9,7 +9,7 @@
     "smallpart": "Action RPG",
     "price": "$89.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@
     "smallpart": "Action Shooter",
     "price": "$99.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "smallpart": "Team-Based Action Game",
     "price": "Learn More",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 5,
@@ -69,6 +69,6 @@
     "smallpart": "Card Packs",
     "price": "$79.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   }
 ]
