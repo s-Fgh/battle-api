@@ -21,7 +21,7 @@
     "smallpart": "Mounts",
     "price": "$90.00",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 3,
@@ -69,6 +69,6 @@
     "smallpart": "Pets",
     "price": "$20.00",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   }
 ]
