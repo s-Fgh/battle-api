@@ -9,7 +9,7 @@
     "smallpart": "Action Shooter",
     "price": "$69.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "smallpart": "Action Shooter",
     "price": "$99.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "smallpart": "Subscriptions",
     "price": "from $12.99/month",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "smallpart": "Action RPG",
     "price": "$39.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 6,
@@ -93,7 +93,7 @@
     "smallpart": "Pets",
     "price": "$20.00",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "smallpart": "Game Services",
     "price": "$10.00",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   },
   {
     "id": 10,
@@ -117,6 +117,6 @@
     "smallpart": "Prisms, Coins, and Tokens",
     "price": "from $4.99",
     "alt": "pic",
-    "redNEW": "./public/images/redNEW.jpg"
+    "redNEW": "./images/redNEW.jpg"
   }
 ]
